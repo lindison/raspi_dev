@@ -1,5 +1,9 @@
 # Some fun with Raspberry Pi
 
+Links:  
+https://www.element14.com/community/docs/DOC-78141/l/identifying-your-model-of-raspberry-pi  
+
+
 TODO:  
 Work on learning GPIO configs using Python  
 Work on NFS mounting  
