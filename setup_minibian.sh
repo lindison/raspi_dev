@@ -11,6 +11,7 @@ apt-get install -y bash-completion
 apt-get install git raspi-config -y
 
 # Install Python
+apt-get install -y build-essential
 apt-get install -y python-dev
 apt-get install -y python-virtualenv
 
