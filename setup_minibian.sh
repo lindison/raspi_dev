@@ -14,6 +14,3 @@ apt-get install git raspi-config -y
 apt-get install -y python-dev
 apt-get install -y python-virtualenv
 
-# setup pip
-
-
