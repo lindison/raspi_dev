@@ -8,7 +8,7 @@ apt-get upgrade -y
 apt-get install -y bash-completion
 
 #  Install git and raspi-config
-apt-get install git raspi-config -y
+apt-get install git-core raspi-config -y
 
 # Install Python
 apt-get install -y vim-python-jedi
