@@ -12,4 +12,8 @@ change directory into the virtual environment and install rpi.gpio python librar
 ## GPIO Pin Reference
 http://pinout.xyz/pinout/pin3_gpio2  
 https://www.raspberrypi.org/documentation/usage/gpio/  
-Place to store gpio code  
+Place to store gpio code 
+ 
+## blinky.py
+Python program to blink the lights on ground gpio pin 3 and pin 7. Runs a loop to turn pin 7 on and off.  
+
