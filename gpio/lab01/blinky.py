@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO         ## Import GPIO Library
 import time                     ## Import 'time' Library
 
-pin = 7                         ## We're working with pin 7
+pin = 11                        ## We're working with pin 7
 GPIO.setmode(GPIO.BOARD)        ## Use BOARD pin number
 GPIO.setup(pin, GPIO.OUT)       ## Setup GPIO pin 7
 
