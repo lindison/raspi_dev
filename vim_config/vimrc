@@ -1,0 +1,6 @@
+# place in ~ and rename .vimrc
+
+syntax on
+filetype indent plugin on
+
+
