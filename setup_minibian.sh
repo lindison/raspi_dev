@@ -31,4 +31,4 @@ git clone https://github.com/lindison/raspi_dev
 cp ~/raspi_dev/vim_config/vimrc ~/.vimrc
 mkdir ~/.vim
 mkdir ~/.vim/ftplugin/
-cp ~/raspi_dev/vim_config/ftplugin ~/.vim/ftplugin/python.vim
+cp ~/raspi_dev/vim_config/ftplugin/python.vim ~/.vim/ftplugin/python.vim
