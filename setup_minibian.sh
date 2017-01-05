@@ -25,7 +25,7 @@ apt-get install -y vim bash-completion
 apt-get install git-core -y
 
 # Install Python
-apt-get install -y vim-python-jedi build-essential python-dev python-virtualenv
+apt-get install -y vim-python-jedi build-essential python-dev python-virtualenv upstart
 
 git clone https://github.com/lindison/raspi_dev
 cp ~/raspi_dev/vim_config/vimrc ~/.vimrc
