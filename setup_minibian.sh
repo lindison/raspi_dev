@@ -25,7 +25,7 @@ apt-get install -y firmware-realtek firmware-ralink wpasupplicant wireless-tools
 apt-get install -y vim bash-completion
 
 #  Install git and raspi-config
-apt-get install git-core -y
+apt-get install tree curl wget git-core -y
 
 # Install Python
 apt-get install -y vim-python-jedi build-essential python-dev python-virtualenv upstart
