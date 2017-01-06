@@ -4,6 +4,9 @@
 apt-get update
 apt-get upgrade -y
 
+# Install wireless drivers
+apt-get install firmware-brcm80211 pi-bluetooth -y
+
 # Install wireless tools
 apt-get install -y firmware-realtek firmware-ralink wpasupplicant wireless-tools
 
