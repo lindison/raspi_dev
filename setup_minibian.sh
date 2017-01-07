@@ -5,7 +5,7 @@ apt-get update
 apt-get upgrade -y
 
 # Install bash-completions
-apt-get install -y bash-completion
+apt-get install -y vim bash-completion
 
 #  Install git and raspi-config
 apt-get install git-core raspi-config -y
